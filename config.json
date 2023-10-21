@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RF7n4NtqWv6jnscmLVpQyBJUqW3TSeGuQn.VP-miner",
+	"user": "RF7n4NtqWv6jnscmLVpQyBJUqW3TSeGuQn",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
